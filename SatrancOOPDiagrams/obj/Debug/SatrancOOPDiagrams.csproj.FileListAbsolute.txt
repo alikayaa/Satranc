@@ -1,0 +1,17 @@
+D:\KitapYardimciKodlar\SatrancOOPDiagrams\bin\Debug\SatrancOOPDiagrams.dll
+D:\KitapYardimciKodlar\SatrancOOPDiagrams\bin\Debug\SatrancOOPDiagrams.pdb
+D:\KitapYardimciKodlar\SatrancOOPDiagrams\obj\Debug\SatrancOOPDiagrams.dll
+D:\KitapYardimciKodlar\SatrancOOPDiagrams\obj\Debug\SatrancOOPDiagrams.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancOOPDiagrams\bin\Debug\SatrancOOPDiagrams.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancOOPDiagrams\bin\Debug\SatrancOOPDiagrams.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancOOPDiagrams\obj\Debug\SatrancOOPDiagrams.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancOOPDiagrams\obj\Debug\SatrancOOPDiagrams.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancOOPDiagrams\bin\Debug\SatrancOOPDiagrams.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancOOPDiagrams\bin\Debug\SatrancOOPDiagrams.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancOOPDiagrams\obj\Debug\SatrancOOPDiagrams.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancOOPDiagrams\obj\Debug\SatrancOOPDiagrams.pdb
+G:\tez ile alakalı\kodlar\Nesne Temelli Programlama\SatrancOOPDiagrams\bin\Debug\SatrancOOPDiagrams.dll
+G:\tez ile alakalı\kodlar\Nesne Temelli Programlama\SatrancOOPDiagrams\bin\Debug\SatrancOOPDiagrams.pdb
+G:\tez ile alakalı\kodlar\Nesne Temelli Programlama\SatrancOOPDiagrams\obj\Debug\SatrancOOPDiagrams.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Nesne Temelli Programlama\SatrancOOPDiagrams\obj\Debug\SatrancOOPDiagrams.dll
+G:\tez ile alakalı\kodlar\Nesne Temelli Programlama\SatrancOOPDiagrams\obj\Debug\SatrancOOPDiagrams.pdb
